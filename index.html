@@ -1,0 +1,65 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>pymetrics Model Comparison</title>
+  <meta name="description" content="Demo for comparing similarities between pymetrics models">
+  <meta name="author" content="Mark Ward">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+
+<body>
+
+  <div id="container" class="container">
+
+    <header>
+      <h1>pymetrics Model Comparison</h1>
+      <p>Dis my shit man. and this is what i'm gonna show you and dats waz upp</p>
+    </header>
+
+    <div id="controls">
+
+      <div id="search_section" class="control">
+        <form id="search_form" action=""  method="post">
+          <p class="search_title">Link Filter <input type="text" class="text-input" id="linkfilter" value="" /></p>
+        </form>
+      </div>
+
+      <div id="search_section" class="control">
+        <form id="search_form" action=""  method="post">
+          <p class="search_title">Search <input type="text" class="text-input" id="search" value="" /></p>
+        </form>
+      </div>
+
+    </div>
+
+    <div id="main" role="main">
+      <div id="vis"></div>
+    </div>
+
+  </div> <!--! end of #container -->
+
+
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+
+  <script defer src="js/plugins.js"></script>
+  <script defer src="js/script.js"></script>
+  <script src="js/libs/coffee-script.js"></script>
+  <script src="js/libs/d3.v2.js"></script>
+  <script src="js/Tooltip.js"></script>
+  <script type="text/coffeescript" src="coffee/vis.coffee"></script>
+
+  
+</body>
+</html>

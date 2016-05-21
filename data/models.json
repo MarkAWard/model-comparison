@@ -1,0 +1,47 @@
+{
+    "nodes": [
+        {
+          "name": "Diamonds On The Soles Of Her Shoes",
+          "id": "diamonds_on_the_soles_of_her_shoes_paul_simon"
+        },
+        {
+          "name": "Graceland",
+          "id": "graceland_paul_simon"
+        },
+        {
+          "name": "Cecilia",
+          "id": "cecilia_simon__garfunkel"
+        },
+        {
+          "name": "Everywhere",
+          "id": "everywhere_fleetwood_mac"
+        }
+    ],
+    "links": [
+        {
+          "source": "graceland_paul_simon",
+          "target": "diamonds_on_the_soles_of_her_shoes_paul_simon",
+          "similarity": 3.0
+        },
+        {
+          "source": "graceland_paul_simon",
+          "target": "cecilia_simon__garfunkel",
+          "similarity": 1.0
+        },
+        {
+          "source": "graceland_paul_simon",
+          "target": "everywhere_fleetwood_mac",
+          "similarity": 5.0
+        },
+        {
+          "source": "diamonds_on_the_soles_of_her_shoes_paul_simon",
+          "target": "everywhere_fleetwood_mac",
+          "similarity": 2.0
+        },
+        {
+          "source": "diamonds_on_the_soles_of_her_shoes_paul_simon",
+          "target": "cecilia_simon__garfunkel",
+          "similarity": 0.5
+        }
+    ]
+}

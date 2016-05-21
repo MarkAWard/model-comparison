@@ -1,0 +1,3669 @@
+{
+  "nodes": [
+    {
+      "id": "Accounting", 
+      "name": "Accounting"
+    }, 
+    {
+      "id": "Biotech-Biomedical 01-19-16", 
+      "name": "Bio Engineering"
+    }, 
+    {
+      "id": "Business_Dev", 
+      "name": "Business Development"
+    }, 
+    {
+      "id": "Consulting", 
+      "name": "Consulting"
+    }, 
+    {
+      "id": "DataScience 01-29-16", 
+      "name": "Data Science"
+    }, 
+    {
+      "id": "EducationManagement 01-19-16", 
+      "name": "Education Management"
+    }, 
+    {
+      "id": "Entrepreneur", 
+      "name": "Entrepreneurship"
+    }, 
+    {
+      "id": "Frontend 02-19-16", 
+      "name": "Frontend Engineering"
+    }, 
+    {
+      "id": "General Management 01/23/16", 
+      "name": "General Management"
+    }, 
+    {
+      "id": "HR and Recruiting: 1/27/2016", 
+      "name": "HR and Recruiting"
+    }, 
+    {
+      "id": "IT and Services 3-3-2016", 
+      "name": "Information Technology and Services"
+    }, 
+    {
+      "id": "Lawyer 03/03/16", 
+      "name": "Law"
+    }, 
+    {
+      "id": "Marketing", 
+      "name": "Marketing"
+    }, 
+    {
+      "id": "MarketingManager 02-08-16", 
+      "name": "Marketing Management"
+    }, 
+    {
+      "id": "Merchandiser 03/03/16", 
+      "name": "Merchandising"
+    }, 
+    {
+      "id": "Nonprofit 03/03/16", 
+      "name": "Nonprofit"
+    }, 
+    {
+      "id": "Operations 01/20/16", 
+      "name": "Operations"
+    }, 
+    {
+      "id": "Product_Dev", 
+      "name": "Product Development"
+    }, 
+    {
+      "id": "Product_Manag", 
+      "name": "Product Management"
+    }, 
+    {
+      "id": "Project_Manag", 
+      "name": "Project Management"
+    }, 
+    {
+      "id": "QA_Engineer 03/03/16", 
+      "name": "Quality Assurance Engineering"
+    }, 
+    {
+      "id": "Retail_Banking 02/29/16", 
+      "name": "Retail Banking"
+    }, 
+    {
+      "id": "STEM_osvm 3-3-2016", 
+      "name": "STEM Research"
+    }, 
+    {
+      "id": "Sales v2 (1/5/2016)", 
+      "name": "Sales"
+    }, 
+    {
+      "id": "Software_Development 2-21-2016", 
+      "name": "Software Engineering"
+    }, 
+    {
+      "id": "Strategic_Planning", 
+      "name": "Strategic Planning"
+    }, 
+    {
+      "id": "Systems_Engineering 03/03/16", 
+      "name": "Systems Engineering"
+    }, 
+    {
+      "id": "UX_Designer 03/03/16", 
+      "name": "UX Design"
+    }, 
+    {
+      "id": "Writer 03/08/16", 
+      "name": "Writing"
+    }, 
+    {
+      "id": "f_CORP", 
+      "name": "Corporate Finance"
+    }, 
+    {
+      "id": "f_HF", 
+      "name": "Hedge Fund"
+    }, 
+    {
+      "id": "f_IB 3", 
+      "name": "Investment Banking"
+    }, 
+    {
+      "id": "f_IM", 
+      "name": "Investment Management"
+    }, 
+    {
+      "id": "f_PE", 
+      "name": "Private Equity"
+    }, 
+    {
+      "id": "f_Research", 
+      "name": "Research Analyst"
+    }, 
+    {
+      "id": "f_ST", 
+      "name": "Sales and Trading"
+    }, 
+    {
+      "id": "f_VC", 
+      "name": "Venture Capital"
+    }
+  ], 
+  "links": [
+    {
+      "source": "Accounting", 
+      "target": "Accounting", 
+      "similarity": 666
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Biotech-Biomedical 01-19-16", 
+      "similarity": 182
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Business_Dev", 
+      "similarity": 97
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Consulting", 
+      "similarity": 34
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "DataScience 01-29-16", 
+      "similarity": 139
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "EducationManagement 01-19-16", 
+      "similarity": 278
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Entrepreneur", 
+      "similarity": 259
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Frontend 02-19-16", 
+      "similarity": 201
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "General Management 01/23/16", 
+      "similarity": 51
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 442
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 4
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 42
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Marketing", 
+      "similarity": 594
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 373
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 247
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 90
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Operations 01/20/16", 
+      "similarity": 132
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Product_Dev", 
+      "similarity": 254
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Product_Manag", 
+      "similarity": 357
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Project_Manag", 
+      "similarity": 138
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 292
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 177
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 1
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 354
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 15
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Strategic_Planning", 
+      "similarity": 323
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 350
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 263
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "Writer 03/08/16", 
+      "similarity": 383
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "f_CORP", 
+      "similarity": 253
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "f_HF", 
+      "similarity": 113
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "f_IB 3", 
+      "similarity": 30
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "f_IM", 
+      "similarity": 78
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "f_PE", 
+      "similarity": 33
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "f_Research", 
+      "similarity": 220
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "f_ST", 
+      "similarity": 212
+    }, 
+    {
+      "source": "Accounting", 
+      "target": "f_VC", 
+      "similarity": 441
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Biotech-Biomedical 01-19-16", 
+      "similarity": 667
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Business_Dev", 
+      "similarity": 314
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Consulting", 
+      "similarity": 104
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "DataScience 01-29-16", 
+      "similarity": 455
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "EducationManagement 01-19-16", 
+      "similarity": 239
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Entrepreneur", 
+      "similarity": 118
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Frontend 02-19-16", 
+      "similarity": 484
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "General Management 01/23/16", 
+      "similarity": 643
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 627
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 172
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 503
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Marketing", 
+      "similarity": 68
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 299
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 556
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 578
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 468
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Product_Dev", 
+      "similarity": 362
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Product_Manag", 
+      "similarity": 286
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Project_Manag", 
+      "similarity": 541
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 518
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 437
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 35
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 181
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 318
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Strategic_Planning", 
+      "similarity": 145
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 498
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 339
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 579
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "f_CORP", 
+      "similarity": 384
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "f_HF", 
+      "similarity": 345
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "f_IB 3", 
+      "similarity": 241
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "f_IM", 
+      "similarity": 280
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "f_PE", 
+      "similarity": 303
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "f_Research", 
+      "similarity": 452
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "f_ST", 
+      "similarity": 463
+    }, 
+    {
+      "source": "Biotech-Biomedical 01-19-16", 
+      "target": "f_VC", 
+      "similarity": 185
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Business_Dev", 
+      "similarity": 668
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Consulting", 
+      "similarity": 329
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "DataScience 01-29-16", 
+      "similarity": 361
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "EducationManagement 01-19-16", 
+      "similarity": 180
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Entrepreneur", 
+      "similarity": 166
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Frontend 02-19-16", 
+      "similarity": 262
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "General Management 01/23/16", 
+      "similarity": 595
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 330
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 276
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 554
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Marketing", 
+      "similarity": 39
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 327
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 429
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 566
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Operations 01/20/16", 
+      "similarity": 476
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Product_Dev", 
+      "similarity": 142
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Product_Manag", 
+      "similarity": 171
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Project_Manag", 
+      "similarity": 581
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 603
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 251
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 210
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 197
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 337
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Strategic_Planning", 
+      "similarity": 120
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 398
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 400
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "Writer 03/08/16", 
+      "similarity": 540
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "f_CORP", 
+      "similarity": 510
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "f_HF", 
+      "similarity": 195
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "f_IB 3", 
+      "similarity": 490
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "f_IM", 
+      "similarity": 644
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "f_PE", 
+      "similarity": 467
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "f_Research", 
+      "similarity": 415
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "f_ST", 
+      "similarity": 492
+    }, 
+    {
+      "source": "Business_Dev", 
+      "target": "f_VC", 
+      "similarity": 324
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Consulting", 
+      "similarity": 669
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "DataScience 01-29-16", 
+      "similarity": 98
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "EducationManagement 01-19-16", 
+      "similarity": 50
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Entrepreneur", 
+      "similarity": 143
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Frontend 02-19-16", 
+      "similarity": 112
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "General Management 01/23/16", 
+      "similarity": 351
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 84
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 304
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 466
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Marketing", 
+      "similarity": 26
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 70
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 135
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 179
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Operations 01/20/16", 
+      "similarity": 200
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Product_Dev", 
+      "similarity": 60
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Product_Manag", 
+      "similarity": 81
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Project_Manag", 
+      "similarity": 343
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 164
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 54
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 443
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 52
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 198
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Strategic_Planning", 
+      "similarity": 57
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 153
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 236
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "Writer 03/08/16", 
+      "similarity": 108
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "f_CORP", 
+      "similarity": 233
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "f_HF", 
+      "similarity": 548
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "f_IB 3", 
+      "similarity": 419
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "f_IM", 
+      "similarity": 307
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "f_PE", 
+      "similarity": 656
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "f_Research", 
+      "similarity": 119
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "f_ST", 
+      "similarity": 170
+    }, 
+    {
+      "source": "Consulting", 
+      "target": "f_VC", 
+      "similarity": 183
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "DataScience 01-29-16", 
+      "similarity": 670
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "EducationManagement 01-19-16", 
+      "similarity": 506
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Entrepreneur", 
+      "similarity": 331
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Frontend 02-19-16", 
+      "similarity": 458
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "General Management 01/23/16", 
+      "similarity": 574
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 576
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 397
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 565
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Marketing", 
+      "similarity": 45
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 609
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 608
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 617
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 444
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Product_Dev", 
+      "similarity": 305
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Product_Manag", 
+      "similarity": 168
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Project_Manag", 
+      "similarity": 477
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 465
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 597
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 77
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 208
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 459
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Strategic_Planning", 
+      "similarity": 133
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 626
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 374
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 584
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "f_CORP", 
+      "similarity": 478
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "f_HF", 
+      "similarity": 209
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "f_IB 3", 
+      "similarity": 266
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "f_IM", 
+      "similarity": 403
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "f_PE", 
+      "similarity": 165
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "f_Research", 
+      "similarity": 494
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "f_ST", 
+      "similarity": 543
+    }, 
+    {
+      "source": "DataScience 01-29-16", 
+      "target": "f_VC", 
+      "similarity": 134
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "EducationManagement 01-19-16", 
+      "similarity": 671
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Entrepreneur", 
+      "similarity": 158
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Frontend 02-19-16", 
+      "similarity": 445
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "General Management 01/23/16", 
+      "similarity": 311
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 522
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 281
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 496
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Marketing", 
+      "similarity": 94
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 462
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 552
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 624
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 365
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Product_Dev", 
+      "similarity": 141
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Product_Manag", 
+      "similarity": 319
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Project_Manag", 
+      "similarity": 283
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 428
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 481
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 48
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 288
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 320
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Strategic_Planning", 
+      "similarity": 271
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 580
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 514
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 489
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "f_CORP", 
+      "similarity": 121
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "f_HF", 
+      "similarity": 129
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "f_IB 3", 
+      "similarity": 216
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "f_IM", 
+      "similarity": 99
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "f_PE", 
+      "similarity": 62
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "f_Research", 
+      "similarity": 232
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "f_ST", 
+      "similarity": 301
+    }, 
+    {
+      "source": "EducationManagement 01-19-16", 
+      "target": "f_VC", 
+      "similarity": 255
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Entrepreneur", 
+      "similarity": 672
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Frontend 02-19-16", 
+      "similarity": 341
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "General Management 01/23/16", 
+      "similarity": 105
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 369
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 61
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 250
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Marketing", 
+      "similarity": 106
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 346
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 379
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 204
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Operations 01/20/16", 
+      "similarity": 284
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Product_Dev", 
+      "similarity": 242
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Product_Manag", 
+      "similarity": 151
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Project_Manag", 
+      "similarity": 366
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 269
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 272
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 16
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 192
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 161
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Strategic_Planning", 
+      "similarity": 193
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 542
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 491
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "Writer 03/08/16", 
+      "similarity": 312
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "f_CORP", 
+      "similarity": 495
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "f_HF", 
+      "similarity": 377
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "f_IB 3", 
+      "similarity": 91
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "f_IM", 
+      "similarity": 82
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "f_PE", 
+      "similarity": 274
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "f_Research", 
+      "similarity": 103
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "f_ST", 
+      "similarity": 207
+    }, 
+    {
+      "source": "Entrepreneur", 
+      "target": "f_VC", 
+      "similarity": 196
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Frontend 02-19-16", 
+      "similarity": 673
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "General Management 01/23/16", 
+      "similarity": 528
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 610
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 393
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 545
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Marketing", 
+      "similarity": 55
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 289
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 555
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 634
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 575
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Product_Dev", 
+      "similarity": 162
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Product_Manag", 
+      "similarity": 500
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Project_Manag", 
+      "similarity": 487
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 486
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 449
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 47
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 342
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 606
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Strategic_Planning", 
+      "similarity": 144
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 651
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 582
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 524
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "f_CORP", 
+      "similarity": 371
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "f_HF", 
+      "similarity": 386
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "f_IB 3", 
+      "similarity": 228
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "f_IM", 
+      "similarity": 187
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "f_PE", 
+      "similarity": 380
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "f_Research", 
+      "similarity": 221
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "f_ST", 
+      "similarity": 336
+    }, 
+    {
+      "source": "Frontend 02-19-16", 
+      "target": "f_VC", 
+      "similarity": 273
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "General Management 01/23/16", 
+      "similarity": 674
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 571
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 583
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 616
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Marketing", 
+      "similarity": 13
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 394
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 620
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 639
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 488
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Product_Dev", 
+      "similarity": 114
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Product_Manag", 
+      "similarity": 205
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Project_Manag", 
+      "similarity": 590
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 621
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 515
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 296
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 248
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 530
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Strategic_Planning", 
+      "similarity": 149
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 519
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 355
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 625
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "f_CORP", 
+      "similarity": 469
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "f_HF", 
+      "similarity": 417
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "f_IB 3", 
+      "similarity": 605
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "f_IM", 
+      "similarity": 615
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "f_PE", 
+      "similarity": 526
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "f_Research", 
+      "similarity": 636
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "f_ST", 
+      "similarity": 585
+    }, 
+    {
+      "source": "General Management 01/23/16", 
+      "target": "f_VC", 
+      "similarity": 213
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "HR and Recruiting: 1/27/2016", 
+      "similarity": 675
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 69
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 613
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Marketing", 
+      "similarity": 146
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 601
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 661
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 641
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Operations 01/20/16", 
+      "similarity": 637
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Product_Dev", 
+      "similarity": 499
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Product_Manag", 
+      "similarity": 414
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Project_Manag", 
+      "similarity": 479
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 652
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 570
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 7
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 538
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 293
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Strategic_Planning", 
+      "similarity": 456
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 663
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 649
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "Writer 03/08/16", 
+      "similarity": 665
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "f_CORP", 
+      "similarity": 411
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "f_HF", 
+      "similarity": 516
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "f_IB 3", 
+      "similarity": 140
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "f_IM", 
+      "similarity": 234
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "f_PE", 
+      "similarity": 264
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "f_Research", 
+      "similarity": 376
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "f_ST", 
+      "similarity": 564
+    }, 
+    {
+      "source": "HR and Recruiting: 1/27/2016", 
+      "target": "f_VC", 
+      "similarity": 507
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "IT and Services 3-3-2016", 
+      "similarity": 676
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 593
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Marketing", 
+      "similarity": 2
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 43
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 260
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 406
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Operations 01/20/16", 
+      "similarity": 287
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Product_Dev", 
+      "similarity": 24
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Product_Manag", 
+      "similarity": 56
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Project_Manag", 
+      "similarity": 245
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 130
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 169
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 648
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 40
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 659
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Strategic_Planning", 
+      "similarity": 19
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 215
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 244
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "Writer 03/08/16", 
+      "similarity": 83
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "f_CORP", 
+      "similarity": 67
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "f_HF", 
+      "similarity": 109
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "f_IB 3", 
+      "similarity": 512
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "f_IM", 
+      "similarity": 298
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "f_PE", 
+      "similarity": 257
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "f_Research", 
+      "similarity": 123
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "f_ST", 
+      "similarity": 115
+    }, 
+    {
+      "source": "IT and Services 3-3-2016", 
+      "target": "f_VC", 
+      "similarity": 53
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Lawyer 03/03/16", 
+      "similarity": 677
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Marketing", 
+      "similarity": 9
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 368
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 650
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 655
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 600
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Product_Dev", 
+      "similarity": 96
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Product_Manag", 
+      "similarity": 270
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Project_Manag", 
+      "similarity": 520
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 619
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 483
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 297
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 243
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 598
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Strategic_Planning", 
+      "similarity": 92
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 642
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 612
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 587
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "f_CORP", 
+      "similarity": 359
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "f_HF", 
+      "similarity": 547
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "f_IB 3", 
+      "similarity": 549
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "f_IM", 
+      "similarity": 471
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "f_PE", 
+      "similarity": 553
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "f_Research", 
+      "similarity": 334
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "f_ST", 
+      "similarity": 521
+    }, 
+    {
+      "source": "Lawyer 03/03/16", 
+      "target": "f_VC", 
+      "similarity": 308
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Marketing", 
+      "similarity": 678
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 174
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 58
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 27
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Operations 01/20/16", 
+      "similarity": 46
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Product_Dev", 
+      "similarity": 294
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Product_Manag", 
+      "similarity": 127
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Project_Manag", 
+      "similarity": 49
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 64
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 93
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 0
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 154
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 6
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Strategic_Planning", 
+      "similarity": 202
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 79
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 73
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "Writer 03/08/16", 
+      "similarity": 80
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "f_CORP", 
+      "similarity": 102
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "f_HF", 
+      "similarity": 100
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "f_IB 3", 
+      "similarity": 18
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "f_IM", 
+      "similarity": 37
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "f_PE", 
+      "similarity": 25
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "f_Research", 
+      "similarity": 157
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "f_ST", 
+      "similarity": 86
+    }, 
+    {
+      "source": "Marketing", 
+      "target": "f_VC", 
+      "similarity": 150
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "MarketingManager 02-08-16", 
+      "similarity": 679
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 591
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 460
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 375
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Product_Dev", 
+      "similarity": 435
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Product_Manag", 
+      "similarity": 147
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Project_Manag", 
+      "similarity": 396
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 560
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 558
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 11
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 404
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 75
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Strategic_Planning", 
+      "similarity": 450
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 563
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 385
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 618
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "f_CORP", 
+      "similarity": 461
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "f_HF", 
+      "similarity": 227
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "f_IB 3", 
+      "similarity": 126
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "f_IM", 
+      "similarity": 275
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "f_PE", 
+      "similarity": 124
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "f_Research", 
+      "similarity": 454
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "f_ST", 
+      "similarity": 577
+    }, 
+    {
+      "source": "MarketingManager 02-08-16", 
+      "target": "f_VC", 
+      "similarity": 229
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Merchandiser 03/03/16", 
+      "similarity": 680
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 662
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 589
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Product_Dev", 
+      "similarity": 363
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Product_Manag", 
+      "similarity": 401
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Project_Manag", 
+      "similarity": 623
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 635
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 602
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 20
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 470
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 424
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Strategic_Planning", 
+      "similarity": 217
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 653
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 632
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 664
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "f_CORP", 
+      "similarity": 568
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "f_HF", 
+      "similarity": 422
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "f_IB 3", 
+      "similarity": 364
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "f_IM", 
+      "similarity": 381
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "f_PE", 
+      "similarity": 237
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "f_Research", 
+      "similarity": 517
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "f_ST", 
+      "similarity": 592
+    }, 
+    {
+      "source": "Merchandiser 03/03/16", 
+      "target": "f_VC", 
+      "similarity": 440
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Nonprofit 03/03/16", 
+      "similarity": 681
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 640
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Product_Dev", 
+      "similarity": 156
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Product_Manag", 
+      "similarity": 423
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Project_Manag", 
+      "similarity": 596
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 629
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 562
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 65
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 360
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 505
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Strategic_Planning", 
+      "similarity": 155
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 657
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 607
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 647
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "f_CORP", 
+      "similarity": 472
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "f_HF", 
+      "similarity": 408
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "f_IB 3", 
+      "similarity": 447
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "f_IM", 
+      "similarity": 352
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "f_PE", 
+      "similarity": 338
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "f_Research", 
+      "similarity": 416
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "f_ST", 
+      "similarity": 539
+    }, 
+    {
+      "source": "Nonprofit 03/03/16", 
+      "target": "f_VC", 
+      "similarity": 367
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Operations 01/20/16", 
+      "similarity": 682
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Product_Dev", 
+      "similarity": 71
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Product_Manag", 
+      "similarity": 588
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Project_Manag", 
+      "similarity": 533
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 630
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 347
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 59
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 567
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 390
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Strategic_Planning", 
+      "similarity": 252
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 622
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 658
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 599
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "f_CORP", 
+      "similarity": 348
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "f_HF", 
+      "similarity": 430
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "f_IB 3", 
+      "similarity": 508
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "f_IM", 
+      "similarity": 277
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "f_PE", 
+      "similarity": 321
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "f_Research", 
+      "similarity": 63
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "f_ST", 
+      "similarity": 431
+    }, 
+    {
+      "source": "Operations 01/20/16", 
+      "target": "f_VC", 
+      "similarity": 559
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Product_Dev", 
+      "similarity": 683
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Product_Manag", 
+      "similarity": 175
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Project_Manag", 
+      "similarity": 211
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 316
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 344
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 3
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 72
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 38
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Strategic_Planning", 
+      "similarity": 332
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 356
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 137
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "Writer 03/08/16", 
+      "similarity": 402
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "f_CORP", 
+      "similarity": 378
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "f_HF", 
+      "similarity": 261
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "f_IB 3", 
+      "similarity": 36
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "f_IM", 
+      "similarity": 117
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "f_PE", 
+      "similarity": 74
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "f_Research", 
+      "similarity": 265
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "f_ST", 
+      "similarity": 231
+    }, 
+    {
+      "source": "Product_Dev", 
+      "target": "f_VC", 
+      "similarity": 101
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "Product_Manag", 
+      "similarity": 684
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "Project_Manag", 
+      "similarity": 353
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 451
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 176
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 17
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 224
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 186
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "Strategic_Planning", 
+      "similarity": 184
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 457
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 474
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "Writer 03/08/16", 
+      "similarity": 328
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "f_CORP", 
+      "similarity": 325
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "f_HF", 
+      "similarity": 279
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "f_IB 3", 
+      "similarity": 188
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "f_IM", 
+      "similarity": 95
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "f_PE", 
+      "similarity": 235
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "f_Research", 
+      "similarity": 107
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "f_ST", 
+      "similarity": 285
+    }, 
+    {
+      "source": "Product_Manag", 
+      "target": "f_VC", 
+      "similarity": 537
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "Project_Manag", 
+      "similarity": 685
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 544
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 282
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 44
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 222
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 432
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "Strategic_Planning", 
+      "similarity": 167
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 482
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 464
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "Writer 03/08/16", 
+      "similarity": 561
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "f_CORP", 
+      "similarity": 628
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "f_HF", 
+      "similarity": 480
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "f_IB 3", 
+      "similarity": 523
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "f_IM", 
+      "similarity": 534
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "f_PE", 
+      "similarity": 485
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "f_Research", 
+      "similarity": 532
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "f_ST", 
+      "similarity": 572
+    }, 
+    {
+      "source": "Project_Manag", 
+      "target": "f_VC", 
+      "similarity": 302
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "QA_Engineer 03/03/16", 
+      "similarity": 686
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 504
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 21
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 427
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 322
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "Strategic_Planning", 
+      "similarity": 448
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 646
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 611
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 660
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "f_CORP", 
+      "similarity": 453
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "f_HF", 
+      "similarity": 370
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "f_IB 3", 
+      "similarity": 382
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "f_IM", 
+      "similarity": 420
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "f_PE", 
+      "similarity": 358
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "f_Research", 
+      "similarity": 446
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "f_ST", 
+      "similarity": 535
+    }, 
+    {
+      "source": "QA_Engineer 03/03/16", 
+      "target": "f_VC", 
+      "similarity": 497
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "Retail_Banking 02/29/16", 
+      "similarity": 687
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 41
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 409
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 199
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "Strategic_Planning", 
+      "similarity": 159
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 550
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 395
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 645
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "f_CORP", 
+      "similarity": 246
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "f_HF", 
+      "similarity": 240
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "f_IB 3", 
+      "similarity": 238
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "f_IM", 
+      "similarity": 230
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "f_PE", 
+      "similarity": 116
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "f_Research", 
+      "similarity": 410
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "f_ST", 
+      "similarity": 509
+    }, 
+    {
+      "source": "Retail_Banking 02/29/16", 
+      "target": "f_VC", 
+      "similarity": 223
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "STEM_osvm 3-3-2016", 
+      "similarity": 688
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 14
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 573
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "Strategic_Planning", 
+      "similarity": 5
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 22
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 31
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "Writer 03/08/16", 
+      "similarity": 10
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "f_CORP", 
+      "similarity": 8
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "f_HF", 
+      "similarity": 28
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "f_IB 3", 
+      "similarity": 436
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "f_IM", 
+      "similarity": 306
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "f_PE", 
+      "similarity": 335
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "f_Research", 
+      "similarity": 32
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "f_ST", 
+      "similarity": 23
+    }, 
+    {
+      "source": "STEM_osvm 3-3-2016", 
+      "target": "f_VC", 
+      "similarity": 12
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "Sales v2 (1/5/2016)", 
+      "similarity": 689
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 66
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "Strategic_Planning", 
+      "similarity": 421
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 412
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 557
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "Writer 03/08/16", 
+      "similarity": 546
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "f_CORP", 
+      "similarity": 160
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "f_HF", 
+      "similarity": 189
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "f_IB 3", 
+      "similarity": 203
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "f_IM", 
+      "similarity": 110
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "f_PE", 
+      "similarity": 125
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "f_Research", 
+      "similarity": 122
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "f_ST", 
+      "similarity": 295
+    }, 
+    {
+      "source": "Sales v2 (1/5/2016)", 
+      "target": "f_VC", 
+      "similarity": 372
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "Software_Development 2-21-2016", 
+      "similarity": 690
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "Strategic_Planning", 
+      "similarity": 29
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 493
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 309
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "Writer 03/08/16", 
+      "similarity": 226
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "f_CORP", 
+      "similarity": 148
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "f_HF", 
+      "similarity": 136
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "f_IB 3", 
+      "similarity": 388
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "f_IM", 
+      "similarity": 225
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "f_PE", 
+      "similarity": 258
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "f_Research", 
+      "similarity": 163
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "f_ST", 
+      "similarity": 206
+    }, 
+    {
+      "source": "Software_Development 2-21-2016", 
+      "target": "f_VC", 
+      "similarity": 85
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "Strategic_Planning", 
+      "similarity": 691
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 214
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 391
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "Writer 03/08/16", 
+      "similarity": 475
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "f_CORP", 
+      "similarity": 178
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "f_HF", 
+      "similarity": 128
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "f_IB 3", 
+      "similarity": 88
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "f_IM", 
+      "similarity": 89
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "f_PE", 
+      "similarity": 152
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "f_Research", 
+      "similarity": 190
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "f_ST", 
+      "similarity": 290
+    }, 
+    {
+      "source": "Strategic_Planning", 
+      "target": "f_VC", 
+      "similarity": 392
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "Systems_Engineering 03/03/16", 
+      "similarity": 692
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 638
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 631
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "f_CORP", 
+      "similarity": 511
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "f_HF", 
+      "similarity": 502
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "f_IB 3", 
+      "similarity": 194
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "f_IM", 
+      "similarity": 249
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "f_PE", 
+      "similarity": 291
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "f_Research", 
+      "similarity": 300
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "f_ST", 
+      "similarity": 473
+    }, 
+    {
+      "source": "Systems_Engineering 03/03/16", 
+      "target": "f_VC", 
+      "similarity": 418
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "UX_Designer 03/03/16", 
+      "similarity": 693
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 633
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "f_CORP", 
+      "similarity": 389
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "f_HF", 
+      "similarity": 536
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "f_IB 3", 
+      "similarity": 438
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "f_IM", 
+      "similarity": 131
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "f_PE", 
+      "similarity": 529
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "f_Research", 
+      "similarity": 87
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "f_ST", 
+      "similarity": 433
+    }, 
+    {
+      "source": "UX_Designer 03/03/16", 
+      "target": "f_VC", 
+      "similarity": 525
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "Writer 03/08/16", 
+      "similarity": 694
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "f_CORP", 
+      "similarity": 425
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "f_HF", 
+      "similarity": 439
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "f_IB 3", 
+      "similarity": 267
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "f_IM", 
+      "similarity": 387
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "f_PE", 
+      "similarity": 268
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "f_Research", 
+      "similarity": 551
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "f_ST", 
+      "similarity": 654
+    }, 
+    {
+      "source": "Writer 03/08/16", 
+      "target": "f_VC", 
+      "similarity": 501
+    }, 
+    {
+      "source": "f_CORP", 
+      "target": "f_CORP", 
+      "similarity": 695
+    }, 
+    {
+      "source": "f_CORP", 
+      "target": "f_HF", 
+      "similarity": 413
+    }, 
+    {
+      "source": "f_CORP", 
+      "target": "f_IB 3", 
+      "similarity": 191
+    }, 
+    {
+      "source": "f_CORP", 
+      "target": "f_IM", 
+      "similarity": 531
+    }, 
+    {
+      "source": "f_CORP", 
+      "target": "f_PE", 
+      "similarity": 349
+    }, 
+    {
+      "source": "f_CORP", 
+      "target": "f_Research", 
+      "similarity": 527
+    }, 
+    {
+      "source": "f_CORP", 
+      "target": "f_ST", 
+      "similarity": 434
+    }, 
+    {
+      "source": "f_CORP", 
+      "target": "f_VC", 
+      "similarity": 219
+    }, 
+    {
+      "source": "f_HF", 
+      "target": "f_HF", 
+      "similarity": 696
+    }, 
+    {
+      "source": "f_HF", 
+      "target": "f_IB 3", 
+      "similarity": 405
+    }, 
+    {
+      "source": "f_HF", 
+      "target": "f_IM", 
+      "similarity": 218
+    }, 
+    {
+      "source": "f_HF", 
+      "target": "f_PE", 
+      "similarity": 604
+    }, 
+    {
+      "source": "f_HF", 
+      "target": "f_Research", 
+      "similarity": 310
+    }, 
+    {
+      "source": "f_HF", 
+      "target": "f_ST", 
+      "similarity": 333
+    }, 
+    {
+      "source": "f_HF", 
+      "target": "f_VC", 
+      "similarity": 313
+    }, 
+    {
+      "source": "f_IB 3", 
+      "target": "f_IB 3", 
+      "similarity": 697
+    }, 
+    {
+      "source": "f_IB 3", 
+      "target": "f_IM", 
+      "similarity": 426
+    }, 
+    {
+      "source": "f_IB 3", 
+      "target": "f_PE", 
+      "similarity": 569
+    }, 
+    {
+      "source": "f_IB 3", 
+      "target": "f_Research", 
+      "similarity": 317
+    }, 
+    {
+      "source": "f_IB 3", 
+      "target": "f_ST", 
+      "similarity": 407
+    }, 
+    {
+      "source": "f_IB 3", 
+      "target": "f_VC", 
+      "similarity": 315
+    }, 
+    {
+      "source": "f_IM", 
+      "target": "f_IM", 
+      "similarity": 698
+    }, 
+    {
+      "source": "f_IM", 
+      "target": "f_PE", 
+      "similarity": 399
+    }, 
+    {
+      "source": "f_IM", 
+      "target": "f_Research", 
+      "similarity": 586
+    }, 
+    {
+      "source": "f_IM", 
+      "target": "f_ST", 
+      "similarity": 513
+    }, 
+    {
+      "source": "f_IM", 
+      "target": "f_VC", 
+      "similarity": 111
+    }, 
+    {
+      "source": "f_PE", 
+      "target": "f_PE", 
+      "similarity": 699
+    }, 
+    {
+      "source": "f_PE", 
+      "target": "f_Research", 
+      "similarity": 256
+    }, 
+    {
+      "source": "f_PE", 
+      "target": "f_ST", 
+      "similarity": 340
+    }, 
+    {
+      "source": "f_PE", 
+      "target": "f_VC", 
+      "similarity": 173
+    }, 
+    {
+      "source": "f_Research", 
+      "target": "f_Research", 
+      "similarity": 700
+    }, 
+    {
+      "source": "f_Research", 
+      "target": "f_ST", 
+      "similarity": 614
+    }, 
+    {
+      "source": "f_Research", 
+      "target": "f_VC", 
+      "similarity": 76
+    }, 
+    {
+      "source": "f_ST", 
+      "target": "f_ST", 
+      "similarity": 701
+    }, 
+    {
+      "source": "f_ST", 
+      "target": "f_VC", 
+      "similarity": 326
+    }, 
+    {
+      "source": "f_VC", 
+      "target": "f_VC", 
+      "similarity": 702
+    }
+  ]
+}
