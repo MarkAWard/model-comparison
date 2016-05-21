@@ -260,8 +260,10 @@ Network = () ->
     layout = newLayout
     if layout == "force"
       force.on("tick", forceTick)
-        .charge(-200)
-        .linkDistance(500)
+        .charge(-600)
+        .linkDistance(200)
+        .linkStrength(0.5)
+        .gravity(0.06)
     else if layout == "radial"
       force.on("tick", radialTick)
         .charge(charge)
